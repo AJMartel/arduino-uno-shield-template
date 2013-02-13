@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 1/31/2013 1:20:18 AM
+EESchema Schematic File Version 2  date 2/12/2013 10:16:28 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -53,7 +53,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "31 jan 2013"
+Date "13 feb 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -61,6 +61,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 3350 3050 0    100  ~ 0
+Use this schematic as a starting point and add components as needed.  \nMake sure you keep existing reference designators when you annotate\nthe schematic.  Otherwise the netlist will not line up with the board \nfile and the read netlist functionality will foobar the board design.
 $Comp
 L HEADER_2X3 P5
 U 1 1 510A0D40

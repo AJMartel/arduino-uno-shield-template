@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 1/31/2013 12:22:21 AM
+EESchema Schematic File Version 2  date 1/31/2013 1:20:18 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -102,11 +102,11 @@ VIN
 Text GLabel 6450 7300 2    40   Input ~ 0
 GND
 Text GLabel 5650 7200 0    40   Input ~ 0
-SCK
+IO13/SCK
 Text GLabel 5650 7100 0    40   Input ~ 0
-MISO
+IO12/MISO
 Text GLabel 6450 7200 2    40   Input ~ 0
-MOSI
+IO11/MOSI
 Text GLabel 5650 7300 0    40   Input ~ 0
 RESET
 $Comp
