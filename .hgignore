@@ -1,0 +1,5 @@
+syntax: glob
+Create_KiCAD_Project_Directory.cmd
+Datasheets/Arduino UNO Proto Board.pdf
+Datasheets/Arduino_Uno_Rev3-schematic.pdf
+Hardware/arduino_Uno_Rev3-02-TH.brd
