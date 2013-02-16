@@ -1,6 +1,6 @@
-update=2/12/2013 10:46:55 PM
+update=2/16/2013 10:27:58 AM
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetITyp=0
@@ -11,8 +11,6 @@ LibDir=
 NetType=0
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [pcbnew]
 version=1
 PadDrlX=320
@@ -136,3 +134,5 @@ LibName44=RF_Modules
 LibName45=Test_Point
 LibName46=TI_Luminary
 LibName47=TI_MSP430
+[general]
+version=1
